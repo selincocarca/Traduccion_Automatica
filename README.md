@@ -1,4 +1,5 @@
-![cover](https://github.com/selincocarca/Traduccion_Automatica/assets/168861192/6d5bd87a-aae3-4bf6-ba07-9f1c83edbfb7)
+![cover](https://github.com/selincocarca/Traduccion_Automatica/assets/168861192/5c3992ee-d004-430e-b5ec-451e4f558b2f)
+
 # Traducción Automática
 
 En este repositorio se encuentra un proyecto de traducción automática para la clase de Procesamiento de Lenguaje Natural en Upgrade Hub. Utilizamos el modelo MarianMT de Helsinki-NLP para traducir entre español, inglés y euskera. La aplicación incluye una interfaz interactiva con widgets de IPython para ingresar texto y seleccionar idiomas.
