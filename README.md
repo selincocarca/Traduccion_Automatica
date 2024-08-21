@@ -2,7 +2,7 @@
 
 # Traducción Automática
 
-En este repositorio se encuentra un proyecto de traducción automática para la clase de Procesamiento de Lenguaje Natural en Upgrade Hub. Utilizamos el modelo MarianMT de Helsinki-NLP para traducir entre español, inglés y euskera. La aplicación incluye una interfaz interactiva con widgets de IPython para ingresar texto y seleccionar idiomas.
+En este repositorio se encuentra un proyecto de traducción automática que utiliza técnicas avanzadas de Procesamiento de Lenguaje Natural. Utilizamos el modelo MarianMT de Helsinki-NLP para traducir entre español, inglés y euskera. La aplicación incluye una interfaz interactiva con widgets de IPython para ingresar texto y seleccionar idiomas.
 
 ## Resultados
 
