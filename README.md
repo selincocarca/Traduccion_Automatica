@@ -4,10 +4,6 @@
 
 En este repositorio se encuentra un proyecto de traducción automática para la clase de Procesamiento de Lenguaje Natural en Upgrade Hub. Utilizamos el modelo MarianMT de Helsinki-NLP para traducir entre español, inglés y euskera. La aplicación incluye una interfaz interactiva con widgets de IPython para ingresar texto y seleccionar idiomas.
 
-## Sobre Upgrade Hub
-
-[Upgrade Hub](https://www.upgrade-hub.com/) es una institución educativa dedicada a ofrecer programas de formación de alta calidad en tecnología y ciencia de datos.
-
 ## Resultados
 
 Los resultados de la experimentación se pueden ver en detalle en el panel de control de Weights & Biases. Esto incluye varias métricas de rendimiento, como la precisión, junto con los hiperparámetros utilizados en cada experimento.
@@ -55,6 +51,4 @@ Para ejecutar el código, primero asegúrate de tener instaladas todas las depen
 
 Las contribuciones a este repositorio son bienvenidas. Asegúrate de que el código siga las mejores prácticas y esté bien documentado.
 
-## Licencias
 
-Este proyecto está bajo la licencia de UpgradeHub.
