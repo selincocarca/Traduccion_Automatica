@@ -47,8 +47,4 @@ Esta combinación de hiperparámetros permitió que el modelo MarianMT capturara
 Para ejecutar el código, primero asegúrate de tener instaladas todas las dependencias necesarias.
 
 
-## Contribuciones
-
-Las contribuciones a este repositorio son bienvenidas. Asegúrate de que el código siga las mejores prácticas y esté bien documentado.
-
 
